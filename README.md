@@ -16,5 +16,5 @@ $ npm start
 
 ```
 $ npm i mk-tools -g
-$ mk clone mk-app-portal apps/my-setting
+$ mk clone mk-app-my-setting apps/my-setting
 ```
